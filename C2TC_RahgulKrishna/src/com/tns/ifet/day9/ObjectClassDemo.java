@@ -1,5 +1,5 @@
 //Program to Demonstrate Object class
-package com.tnsif.day9.buffer;
+package com.tns.ifet.day9;
 
 class Sample {
 

@@ -1,5 +1,5 @@
 //Program to demonstrate WrapperClasses
-package com.tnsif.day9.buffer;
+package com.tns.ifet.day9;
 
 public class WrapperClassDemo {
 	public static void main(String[] args) {

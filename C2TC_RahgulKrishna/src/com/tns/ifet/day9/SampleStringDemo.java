@@ -1,5 +1,5 @@
 //Program to demonstrate String Class
-package com.tnsif.day9.buffer;
+package com.tns.ifet.day9;
 
 public class SampleStringDemo {
 
